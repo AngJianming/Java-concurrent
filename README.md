@@ -1,4 +1,3 @@
-# Learning Data Structure & Algorithms
-Learning Data Structure &amp; Algorithms in Java Programming Language
+# Learning Java concurrent Programming
 
 I'll find some time to complete this one day...
